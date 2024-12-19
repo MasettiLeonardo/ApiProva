@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maset\\source\\repos\\ApiProva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4FA1A9-58F4-49E0-8373-212965E531B6}|Client{7F4FA1A9-58F4-49E0-8373-212965E531B6}|C:\\Users\\maset\\source\\repos\\ApiProva\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{7F4FA1A9-58F4-49E0-8373-212965E531B6}|Client{7F4FA1A9-58F4-49E0-8373-212965E531B6}|solutionrelative:index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|c:\\users\\maset\\source\\repos\\apiprova\\apiprova\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|solutionrelative:apiprova\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F4FA1A9-58F4-49E0-8373-212965E531B6}|Client{7F4FA1A9-58F4-49E0-8373-212965E531B6}|C:\\Users\\maset\\source\\repos\\ApiProva\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7F4FA1A9-58F4-49E0-8373-212965E531B6}|Client{7F4FA1A9-58F4-49E0-8373-212965E531B6}|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|c:\\users\\maset\\source\\repos\\apiprova\\apiprova\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|solutionrelative:apiprova\\models\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|c:\\users\\maset\\source\\repos\\apiprova\\apiprova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|solutionrelative:apiprova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|c:\\users\\maset\\source\\repos\\apiprova\\apiprova\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|solutionrelative:apiprova\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|c:\\users\\maset\\source\\repos\\apiprova\\apiprova\\database\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273D6614-DD8A-4F93-953C-25F619786803}|ApiProva\\ApiProva.csproj|solutionrelative:apiprova\\database\\fakedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ApiProva\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ApiProva\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T20:13:26.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\index.js",
+              "RelativeDocumentMoniker": "index.js",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\index.js",
+              "RelativeToolTip": "index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-19T19:42:51.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-19T19:39:55.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Models\\Request\\UserRequest.cs",
+              "RelativeDocumentMoniker": "ApiProva\\Models\\Request\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Models\\Request\\UserRequest.cs",
+              "RelativeToolTip": "ApiProva\\Models\\Request\\UserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:42:38.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FakeDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Database\\FakeDatabase.cs",
+              "RelativeDocumentMoniker": "ApiProva\\Database\\FakeDatabase.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Database\\FakeDatabase.cs",
+              "RelativeToolTip": "ApiProva\\Database\\FakeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:22:17.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ApiProva\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ApiProva\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:20:39.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Program.cs",
+              "RelativeDocumentMoniker": "ApiProva\\Program.cs",
+              "ToolTip": "C:\\Users\\maset\\source\\repos\\ApiProva\\ApiProva\\Program.cs",
+              "RelativeToolTip": "ApiProva\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:18:30.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
